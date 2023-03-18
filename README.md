@@ -50,7 +50,7 @@ For sentiment analysis with audio : python SentimentAnalysis.py
 ```
 
 ```
-For sentiment analysis with Realtime : python SentimentRealtimeAnalysis test.py
+For sentiment analysis with Realtime : python SentimentRealtimeAnalysis.py
 ```
 
 Libraries Used
