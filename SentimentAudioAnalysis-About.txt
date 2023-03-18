@@ -1,0 +1,6 @@
+Github.com/Asimodabas
+
+neg: Negative
+neu: Neutral
+pos: Positive
+compound: Compound (Aggregated Score)
